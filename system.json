@@ -2,20 +2,35 @@
   "name": "midguardrpg",
   "title": "Midguard RPG",
   "description": "System for playing Polish RPG, Midguard",
+  
   "authors": [
     {
       "name": "CarryGuun",
-      "email": "arturkonczalski@gmail.com"
-    }
+      "email": "arturkonczalski@gmail.com",
+      "url": "https://github.com/arturkonczalski/Midguard-RPG-Official",
+      "flags": {}
+    },
+    {
+      "name": "Marcel z Rivii",
+      "discord": "marcelrivijczyk",
+      "email": "marcelzrivii@outlook.com",
+      "url": "https://linktr.ee/marcelrivijczyk",
+      "flags": {}
   ],
-  "url": "https://github.com/arturkonczalski/Midguard-RPG-Official",
-  "flags": {},
-  "version": "1.1",
-  "minimumCoreVersion": "9.0",
-  "compatibleCoreVersion": "9.269",
+  
+  "version": "1.2",
+  "minimumCoreVersion": "12",
+  "compatibleCoreVersion": "12",
+  
   "scripts": [],
   "esmodules": ["midguardrpg.js"],
   "styles": ["midguardrpg.css"],
+  "packs": [],
+  "system": [],
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  
   "languages": [
     {
       "lang": "pl",
@@ -23,11 +38,7 @@
       "path": "lang/pl.json"
     }
   ],
-  "packs": [],
-  "system": [],
-  "dependencies": [],
-  "socket": false,
+  
   "manifest": "https://github.com/arturkonczalski/Midguard-RPG-Official/releases/latest/download/system.json",
-  "download": "https://github.com/arturkonczalski/Midguard-RPG-Official/releases/latest/download/system.zip",
-  "protected": false
+  "download": "https://github.com/arturkonczalski/Midguard-RPG-Official/releases/latest/download/system.zip"
 }

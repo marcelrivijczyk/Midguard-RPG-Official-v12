@@ -20,17 +20,13 @@
   ],
   
   "version": "1.2",
-  "minimumCoreVersion": "12",
+  "minimumCoreVersion": "9",
   "compatibleCoreVersion": "12",
   
   "scripts": [],
   "esmodules": ["midguardrpg.js"],
   "styles": ["midguardrpg.css"],
-  "packs": [],
-  "system": [],
-  "dependencies": [],
   "socket": false,
-  "protected": false,
   
   "languages": [
     {

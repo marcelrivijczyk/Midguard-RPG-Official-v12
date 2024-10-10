@@ -2,6 +2,8 @@
 
 Official FoundryVTT system for Midguard RPG
 
+**Manifest:** https://raw.githubusercontent.com/marcelrivijczyk/Midguard-RPG-Official-v12/master/system.json
+
 ## Version 1.1
 
 - Bug fixes.
